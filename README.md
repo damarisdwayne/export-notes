@@ -1,4 +1,4 @@
-# expert notes Application
+# Expert notes Application
 
 This is a simple application for recording notes in text or by voice using the Speech Recognition API. It is developed with modern technologies such as Tailwind CSS, Vite, Date-fns, Lucide, Sonner, and Radix Dialog.
 
